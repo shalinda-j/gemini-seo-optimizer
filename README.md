@@ -31,9 +31,7 @@ Create the Plugin File:
 Create a new file named gemini-seo-optimizer.php.
 Add Plugin Header:
 
-At the top of the file, add the following header:
-php
-Copy code
+At the top of the file, add the following header: php Copy code
 
 <?php
 /*
